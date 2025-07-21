@@ -6,7 +6,7 @@ from agents import (
     handoff
 )
 from openai import AsyncOpenAI
-gemini_api_key = "AIzaSyBWGYNREjwmSgTsJXeEB_Cucs28CGb1gUc"
+gemini_api_key = ""
 
 #Reference: https://ai.google.dev/gemini-api/docs/openai
 client = AsyncOpenAI(
